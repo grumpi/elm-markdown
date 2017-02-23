@@ -1,6 +1,5 @@
 var _grumpi$elm_markdown$Native_Markdown = function() {
 
-
 // VIRTUAL-DOM WIDGETS
 
 function toHtml(options, factList, rawMarkdown)
